@@ -1,8 +1,8 @@
 Hello,
 
-thank you for registering at Quant-UX. You can now login at {{{quxServerHost}}}
+thank you for registering at BuildHub. You can now login at {{{quxServerHost}}}
 
 
 Best Regards,
 
-Your Quant-UX Team
+Your BuildHub Team
